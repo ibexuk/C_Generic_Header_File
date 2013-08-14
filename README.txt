@@ -1,0 +1,1 @@
+This is a copy of the generic header file used by many of our C based projects
